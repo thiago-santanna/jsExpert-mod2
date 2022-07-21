@@ -1,1 +1,12 @@
-[{"id":"15a48faf-bae7-464d-aa4e-c84558b21e3f","name":"Sedan","carIds":["0eca5a65-da01-43c7-a0b1-6b103a8e64d9","fe83bc99-9d59-48c2-9a6c-f21647a7a065","43538b36-5b0d-4c15-ae81-a280bfb0af11"],"price":79.95}]
+[
+  {
+    "id": "fe37da1a-58b3-4841-9c90-3c33b75f4542",
+    "name": "Minivan",
+    "carIds": [
+      "a9807c06-622d-423e-842b-1bc222cbd918",
+      "da1e244b-ee76-461c-bafe-b72ec3ee45b4",
+      "3c0ac44d-02ea-48f3-b1e9-46f57b107cec"
+    ],
+    "price": 73.83
+  }
+]

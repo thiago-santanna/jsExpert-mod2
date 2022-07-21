@@ -1,1 +1,23 @@
-[{"id":"0eca5a65-da01-43c7-a0b1-6b103a8e64d9","name":"Focus","releaseYear":2021,"available":true,"gasAvailable":true},{"id":"fe83bc99-9d59-48c2-9a6c-f21647a7a065","name":"Taurus","releaseYear":2022,"available":true,"gasAvailable":true},{"id":"43538b36-5b0d-4c15-ae81-a280bfb0af11","name":"Wrangler","releaseYear":2022,"available":true,"gasAvailable":true}]
+[
+  {
+    "id": "a9807c06-622d-423e-842b-1bc222cbd918",
+    "name": "Grand Caravan",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "da1e244b-ee76-461c-bafe-b72ec3ee45b4",
+    "name": "Alpine",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "3c0ac44d-02ea-48f3-b1e9-46f57b107cec",
+    "name": "Altima",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
